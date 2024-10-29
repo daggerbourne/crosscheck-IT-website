@@ -87,6 +87,10 @@ header.sticky.sticky-active [data-header-hover="light"] .widget-text i {
     background: -webkit-linear-gradient(right, rgba(243, 69, 59, 1.0), rgba(255, 255, 255, 0.0));
     background: linear-gradient(to right, rgba(243, 69, 59, 1.0) 10%, rgba(255, 255, 255, 0.0) 95%);
 }
+.bg-gradient-portal-orange-transparent {
+    background: -webkit-linear-gradient(right, rgba(233, 120, 55, 1.0), rgba(255, 255, 255, 0.0));
+    background: linear-gradient(to right, rgba(233, 120, 55, 1.0) 10%, rgba(255, 255, 255, 0.0) 95%);
+}
 .bg-gradient-base-color-transparent {
     background: -webkit-linear-gradient(right, rgba(15, 89, 201, 1.0), rgba(255, 255, 255, 0.0));
     background: linear-gradient(to right, rgba(15, 89, 201, 1.0) 10%, rgba(255, 255, 255, 0.0) 95%);
